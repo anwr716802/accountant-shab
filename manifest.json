@@ -1,0 +1,28 @@
+{
+  "name": "حسابات الشعب - تطبيق أجور العمالة واليوميات",
+  "short_name": "حسابات الشعب",
+  "description": "تطبيق ويب يعمل بدون إنترنت لحساب أيام العمل وأجور عمال اليومية وتصدير كشوفات الحساب PDF.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["finance", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/imegs/logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/imegs/logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
