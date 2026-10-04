@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://accountant-shab.vercel.app/sitemap.xml
